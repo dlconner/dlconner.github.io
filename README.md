@@ -1,4 +1,4 @@
-dlconner.github.io
-==================
+#H1 Diane Conner's Web Site Repo
 
-dlconner official website
+##Objectives
+Show commit history
