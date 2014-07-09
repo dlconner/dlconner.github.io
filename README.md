@@ -1,4 +1,5 @@
-##Diane Conner's Web Site Repo
+##Diane Conner's Web Site 
 
 ##Objectives
-Show commit history
+*Show commit history
+	*'git pull'
